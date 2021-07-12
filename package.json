@@ -75,6 +75,6 @@
     "eslint": "^7.6.0",
     "nectarjs_external": "^0.6.2",
     "strip-comments": "^2.0.1",
-    "typescript": "^3.9.7"
+    "typescript": "^3.9.10"
   }
 }
